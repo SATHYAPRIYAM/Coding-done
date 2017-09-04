@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class palin
+class prime
 {
 public static void main(String a[])
 {
