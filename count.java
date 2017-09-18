@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class pri
+class count
 {
 public static void main(String args[])
 {
