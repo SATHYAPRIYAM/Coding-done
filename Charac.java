@@ -13,7 +13,7 @@ public class Charac {
 		char temparr[]=str1.toCharArray();
 		char temarr[]=str2.toCharArray();
 		Arrays.sort(temparr);
-		Arrays.sort(temarr);
+		Arrays.sort(temarr);‪
 		str1=new String(temparr);
 		str2=new String(temarr);
 		//System.out.println(str1+" "+str2);
